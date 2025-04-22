@@ -1,0 +1,3 @@
+"""
+Vector processing functionality.
+"""
